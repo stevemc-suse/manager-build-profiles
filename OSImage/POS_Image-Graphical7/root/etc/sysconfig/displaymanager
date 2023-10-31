@@ -28,4 +28,4 @@ DISPLAYMANAGER_ROOT_LOGIN_REMOTE="no"
 #
 # Allow all users to login without password, but ask for the user
 #
-DISPLAYMANAGER_PASSWORD_LESS_LOGIN="no"
+DISPLAYMANAGER_PASSWORD_LESS_LOGIN="yes"
